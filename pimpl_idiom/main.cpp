@@ -1,4 +1,9 @@
+// Idea: <ToDo> Describe the idea of pimpl_idiom
+//
+//
 #include <iostream>
+
+// ToDo: add class Dog inplace
 
 #include "Dog.h"
 
