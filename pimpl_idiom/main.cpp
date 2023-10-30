@@ -1,5 +1,5 @@
 // Idea: <ToDo> Describe the idea of pimpl_idiom
-//
+// Acts as a compiler firewall
 //
 #include <iostream>
 
