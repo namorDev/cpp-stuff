@@ -35,3 +35,5 @@
 - boost
   - https://github.com/boost-ext/di 
 - concepts (C++ 20)
+- void_pointer
+  - https://www.learncpp.com/cpp-tutorial/void-pointers/
